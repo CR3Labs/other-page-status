@@ -14,9 +14,9 @@ sites:
   - name: Public API
     url: https://alpha-api.other.page/v1/health
   # - name: Blockchain Service
-  #   url: https://alpha-api.other.page/portal/v1/blockchain/health
+  #   url: https://alpha-api.other.page/portal/v1/health/blockchain
   # - name: Indexer Service
-  #   url: https://alpha-api.other.page/portal/v1/indexer/health
+  #   url: https://alpha-api.other.page/portal/v1/health/indexer
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
