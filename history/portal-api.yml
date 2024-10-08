@@ -1,7 +1,7 @@
 url: https://alpha-api.other.page/portal/v1/health
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2024-10-07T23:11:26.421Z
+status: down
+code: 504
+responseTime: 10136
+lastUpdated: 2024-10-08T15:24:58.500Z
 startTime: 2024-10-06T17:58:34.420Z
 generator: Upptime <https://github.com/upptime/upptime>
