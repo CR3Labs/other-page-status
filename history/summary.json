@@ -22,18 +22,20 @@
     "url": "https://alpha-api.other.page/core/v0/health",
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "app-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 198,
-    "timeWeek": 216,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 219,
+    "timeDay": 214,
+    "timeWeek": 219,
+    "timeMonth": 219,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "Portal",
@@ -58,35 +60,39 @@
     "url": "https://alpha-api.other.page/portal/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "portal-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 121,
-    "timeDay": 163,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
-    "dailyMinutesDown": {}
+    "time": 2124,
+    "timeDay": 5150,
+    "timeWeek": 2124,
+    "timeMonth": 2124,
+    "timeYear": 2124,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   },
   {
     "name": "Public API",
     "url": "https://alpha-api.other.page/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/alpha-api.other.page.ico",
     "slug": "public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 135,
-    "timeWeek": 117,
-    "timeMonth": 117,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "time": 120,
+    "timeDay": 134,
+    "timeWeek": 120,
+    "timeMonth": 120,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2024-10-08": 0
+    }
   }
 ]
