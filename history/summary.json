@@ -40,7 +40,7 @@
     "url": "https://portal.other.page",
     "icon": "https://icons.duckduckgo.com/ip3/portal.other.page.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 148,
     "timeMonth": 140,
     "timeYear": 140,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-22": 0
+    }
   },
   {
     "name": "Portal API",
