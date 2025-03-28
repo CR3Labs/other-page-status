@@ -94,9 +94,9 @@
     "url": "https://api.other.page/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "blockchain-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 1438,
     "timeMonth": 2056,
     "timeYear": 2056,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-28": 0
+    }
   }
 ]
