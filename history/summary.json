@@ -49,7 +49,7 @@
     "time": 122,
     "timeDay": 206,
     "timeWeek": 179,
-    "timeMonth": 122,
+    "timeMonth": 124,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 108,
     "timeDay": 132,
     "timeWeek": 119,
-    "timeMonth": 108,
+    "timeMonth": 107,
     "timeYear": 108,
     "dailyMinutesDown": {}
   },
@@ -76,35 +76,39 @@
     "url": "https://api.other.page/v1/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "public-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 152,
-    "timeWeek": 124,
-    "timeMonth": 112,
-    "timeYear": 112,
-    "dailyMinutesDown": {}
+    "time": 242,
+    "timeDay": 2269,
+    "timeWeek": 656,
+    "timeMonth": 245,
+    "timeYear": 242,
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   },
   {
     "name": "Blockchain Service",
     "url": "https://api.other.page/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "blockchain-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3533,
-    "timeDay": 5022,
-    "timeWeek": 4908,
-    "timeMonth": 3533,
-    "timeYear": 3533,
-    "dailyMinutesDown": {}
+    "time": 3430,
+    "timeDay": 2532,
+    "timeWeek": 4300,
+    "timeMonth": 3528,
+    "timeYear": 3430,
+    "dailyMinutesDown": {
+      "2025-04-14": 0
+    }
   }
 ]
