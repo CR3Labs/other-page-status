@@ -5,40 +5,36 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "public-api",
     "status": "up",
-    "uptime": "27.02%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "88.28%",
-    "uptimeYear": "27.02%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 264,
     "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 264,
     "timeYear": 264,
-    "dailyMinutesDown": {
-      "2025-07-29": 17,
-      "2025-04-17": 68,
-      "2025-04-14": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minting Service",
     "url": "https://api.other.page/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "minting-service",
-    "status": "up",
-    "uptime": "41.43%",
-    "uptimeDay": "41.43%",
-    "uptimeWeek": "41.43%",
-    "uptimeMonth": "41.43%",
-    "uptimeYear": "41.43%",
+    "status": "down",
+    "uptime": "97.41%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "97.41%",
+    "uptimeMonth": "97.41%",
+    "uptimeYear": "97.41%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2025-07-31": 84
+      "2025-07-31": 6
     }
   },
   {
@@ -46,19 +42,19 @@
     "url": "https://api.other.page/v1/health/blockchain/mainnet",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "mainnet-indexer",
-    "status": "up",
-    "uptime": "4.22%",
-    "uptimeDay": "4.22%",
-    "uptimeWeek": "4.22%",
-    "uptimeMonth": "4.22%",
-    "uptimeYear": "4.22%",
+    "status": "down",
+    "uptime": "98.04%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "98.04%",
+    "uptimeMonth": "98.04%",
+    "uptimeYear": "98.04%",
     "time": 167,
     "timeDay": 167,
     "timeWeek": 167,
     "timeMonth": 167,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-07-31": 135
+      "2025-07-31": 5
     }
   },
   {
@@ -66,19 +62,19 @@
     "url": "https://api.other.page/v1/health/blockchain/apechain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "apechain-indexer",
-    "status": "up",
-    "uptime": "4.25%",
-    "uptimeDay": "4.25%",
-    "uptimeWeek": "4.25%",
-    "uptimeMonth": "4.25%",
-    "uptimeYear": "4.25%",
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-07-31": 134
+      "2025-07-31": 3
     }
   },
   {
@@ -86,19 +82,19 @@
     "url": "https://api.other.page/v1/health/blockchain/base",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "base-indexer",
-    "status": "up",
-    "uptime": "27.75%",
-    "uptimeDay": "27.75%",
-    "uptimeWeek": "27.75%",
-    "uptimeMonth": "27.75%",
-    "uptimeYear": "27.75%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 785,
     "timeDay": 785,
     "timeWeek": 785,
     "timeMonth": 785,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2025-07-31": 99
+      "2025-07-31": 2
     }
   },
   {
@@ -106,19 +102,19 @@
     "url": "https://api.other.page/v1/health/blockchain/polygon",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "polygon-indexer",
-    "status": "up",
-    "uptime": "4.29%",
-    "uptimeDay": "4.29%",
-    "uptimeWeek": "4.29%",
-    "uptimeMonth": "4.29%",
-    "uptimeYear": "4.29%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 143,
     "timeDay": 143,
     "timeWeek": 143,
     "timeMonth": 143,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-07-31": 131
+      "2025-07-31": 0
     }
   }
 ]
