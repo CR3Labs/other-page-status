@@ -6,9 +6,9 @@
     "slug": "public-api",
     "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "75.89%",
-    "uptimeWeek": "42.96%",
-    "uptimeMonth": "42.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "74.03%",
+    "uptimeMonth": "74.03%",
     "uptimeYear": "0.00%",
     "time": 264,
     "timeDay": 264,
@@ -16,7 +16,6 @@
     "timeMonth": 264,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2025-07-31": 12,
       "2025-07-29": 17,
       "2025-04-17": 68,
       "2025-04-14": 19
@@ -28,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "minting-service",
     "status": "up",
-    "uptime": "15.16%",
-    "uptimeDay": "15.16%",
-    "uptimeWeek": "15.16%",
-    "uptimeMonth": "15.16%",
-    "uptimeYear": "15.16%",
+    "uptime": "52.14%",
+    "uptimeDay": "52.14%",
+    "uptimeWeek": "52.14%",
+    "uptimeMonth": "52.14%",
+    "uptimeYear": "52.14%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-07-31": 43
+      "2025-07-31": 31
     }
   },
   {
@@ -48,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "mainnet-indexer",
     "status": "down",
-    "uptime": "11.73%",
-    "uptimeDay": "11.73%",
-    "uptimeWeek": "11.73%",
-    "uptimeMonth": "11.73%",
-    "uptimeYear": "11.73%",
+    "uptime": "9.17%",
+    "uptimeDay": "9.17%",
+    "uptimeWeek": "9.17%",
+    "uptimeMonth": "9.17%",
+    "uptimeYear": "9.17%",
     "time": 151,
     "timeDay": 151,
     "timeWeek": 151,
     "timeMonth": 151,
     "timeYear": 151,
     "dailyMinutesDown": {
-      "2025-07-31": 43
+      "2025-07-31": 57
     }
   },
   {
@@ -68,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "apechain-indexer",
     "status": "down",
-    "uptime": "12.09%",
-    "uptimeDay": "12.09%",
-    "uptimeWeek": "12.09%",
-    "uptimeMonth": "12.09%",
-    "uptimeYear": "12.09%",
+    "uptime": "9.42%",
+    "uptimeDay": "9.42%",
+    "uptimeWeek": "9.42%",
+    "uptimeMonth": "9.42%",
+    "uptimeYear": "9.42%",
     "time": 140,
     "timeDay": 140,
     "timeWeek": 140,
     "timeMonth": 140,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-07-31": 42
+      "2025-07-31": 56
     }
   },
   {
@@ -87,19 +86,19 @@
     "url": "https://api.other.page/v1/health/blockchain/base",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "base-indexer",
-    "status": "up",
-    "uptime": "26.53%",
-    "uptimeDay": "26.53%",
-    "uptimeWeek": "26.53%",
-    "uptimeMonth": "26.53%",
-    "uptimeYear": "26.53%",
-    "time": 610,
-    "timeDay": 610,
-    "timeWeek": 610,
-    "timeMonth": 610,
-    "timeYear": 610,
+    "status": "down",
+    "uptime": "63.85%",
+    "uptimeDay": "63.85%",
+    "uptimeWeek": "63.85%",
+    "uptimeMonth": "63.85%",
+    "uptimeYear": "63.85%",
+    "time": 901,
+    "timeDay": 901,
+    "timeWeek": 901,
+    "timeMonth": 901,
+    "timeYear": 901,
     "dailyMinutesDown": {
-      "2025-07-31": 33
+      "2025-07-31": 21
     }
   },
   {
@@ -108,18 +107,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "polygon-indexer",
     "status": "down",
-    "uptime": "12.94%",
-    "uptimeDay": "12.94%",
-    "uptimeWeek": "12.94%",
-    "uptimeMonth": "12.94%",
-    "uptimeYear": "12.94%",
+    "uptime": "9.90%",
+    "uptimeDay": "9.90%",
+    "uptimeWeek": "9.90%",
+    "uptimeMonth": "9.90%",
+    "uptimeYear": "9.90%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2025-07-31": 39
+      "2025-07-31": 53
     }
   }
 ]
