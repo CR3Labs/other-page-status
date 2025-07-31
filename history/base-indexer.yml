@@ -1,7 +1,7 @@
 url: https://api.other.page/v1/health/blockchain/base
-status: up
-code: 200
-responseTime: 2028
-lastUpdated: 2025-07-31T15:09:20.335Z
+status: down
+code: 503
+responseTime: 2065
+lastUpdated: 2025-07-31T15:24:20.088Z
 startTime: 2025-07-31T14:24:51.693Z
 generator: Upptime <https://github.com/upptime/upptime>
