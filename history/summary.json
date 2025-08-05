@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "mainnet-indexer",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptime": "98.79%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 1164,
     "timeDay": 103,
     "timeWeek": 1164,
     "timeMonth": 1164,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-08-04": 56
+      "2025-08-05": 20,
+      "2025-08-04": 57
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "apechain-indexer",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "96.10%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptime": "98.79%",
+    "uptimeDay": "94.68%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 1032,
     "timeDay": 94,
     "timeWeek": 1032,
     "timeMonth": 1032,
     "timeYear": 1032,
     "dailyMinutesDown": {
-      "2025-08-04": 56
+      "2025-08-05": 20,
+      "2025-08-04": 57
     }
   },
   {
@@ -81,18 +83,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "base-indexer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 962,
     "timeDay": 121,
     "timeWeek": 962,
     "timeMonth": 962,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-05": 20,
+      "2025-08-04": 1
     }
   },
   {
@@ -101,18 +104,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "polygon-indexer",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.68%",
+    "uptimeDay": "98.57%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 903,
     "timeDay": 117,
     "timeWeek": 903,
     "timeMonth": 903,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2025-08-04": 0
+      "2025-08-05": 20,
+      "2025-08-04": 1
     }
   }
 ]
