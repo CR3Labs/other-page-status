@@ -1,7 +1,7 @@
 url: https://api.other.page/v1/health/blockchain/polygon
-status: down
-code: 503
-responseTime: 86
-lastUpdated: 2025-08-06T04:25:58.687Z
+status: up
+code: 200
+responseTime: 47
+lastUpdated: 2025-08-06T05:38:14.920Z
 startTime: 2025-07-31T14:26:23.905Z
 generator: Upptime <https://github.com/upptime/upptime>
