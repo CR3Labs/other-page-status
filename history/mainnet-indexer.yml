@@ -1,7 +1,7 @@
 url: https://api.other.page/v1/health/blockchain/mainnet
-status: up
-code: 200
-responseTime: 77
-lastUpdated: 2025-08-15T13:58:38.500Z
+status: down
+code: 503
+responseTime: 137
+lastUpdated: 2025-08-15T14:23:28.535Z
 startTime: 2025-07-31T14:21:47.299Z
 generator: Upptime <https://github.com/upptime/upptime>
