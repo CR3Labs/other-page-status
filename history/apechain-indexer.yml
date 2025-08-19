@@ -1,7 +1,7 @@
 url: https://api.other.page/v1/health/blockchain/apechain
-status: down
-code: 503
-responseTime: 66
-lastUpdated: 2025-08-19T03:27:17.504Z
+status: up
+code: 200
+responseTime: 128
+lastUpdated: 2025-08-19T06:55:28.810Z
 startTime: 2025-07-31T14:23:19.285Z
 generator: Upptime <https://github.com/upptime/upptime>
