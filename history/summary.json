@@ -4,18 +4,20 @@
     "url": "https://api.other.page/core/v0/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 167,
-    "timeWeek": 220,
-    "timeMonth": 220,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 198,
+    "timeWeek": 221,
+    "timeMonth": 221,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2025-08-29": 0
+    }
   },
   {
     "name": "Minter",
