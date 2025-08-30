@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 1455,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1312,
     "timeDay": 2186,
-    "timeWeek": 1455,
-    "timeMonth": 1455,
-    "timeYear": 1455,
-    "dailyMinutesDown": {
-      "2025-08-29": 8
-    }
+    "timeWeek": 1312,
+    "timeMonth": 1312,
+    "timeYear": 1312,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Minter",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 148,
-    "timeWeek": 148,
-    "timeMonth": 148,
-    "timeYear": 148,
+    "time": 130,
+    "timeDay": 59,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 132,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 117,
+    "timeDay": 46,
+    "timeWeek": 117,
+    "timeMonth": 117,
+    "timeYear": 117,
     "dailyMinutesDown": {}
   }
 ]
