@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "app",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 724,
-    "timeDay": 307,
-    "timeWeek": 779,
-    "timeMonth": 724,
-    "timeYear": 724,
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 706,
+    "timeDay": 332,
+    "timeWeek": 781,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2025-08-30": 16
     }
@@ -24,18 +24,20 @@
     "url": "https://api.other.page/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "minter",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 139,
-    "timeWeek": 134,
-    "timeMonth": 135,
-    "timeYear": 135,
-    "dailyMinutesDown": {}
+    "time": 915,
+    "timeDay": 4427,
+    "timeWeek": 1203,
+    "timeMonth": 915,
+    "timeYear": 915,
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   },
   {
     "name": "API",
@@ -48,11 +50,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 124,
-    "timeDay": 138,
-    "timeWeek": 121,
-    "timeMonth": 124,
-    "timeYear": 124,
-    "dailyMinutesDown": {}
+    "time": 127,
+    "timeDay": 155,
+    "timeWeek": 123,
+    "timeMonth": 127,
+    "timeYear": 127,
+    "dailyMinutesDown": {
+      "2025-09-03": 0
+    }
   }
 ]
