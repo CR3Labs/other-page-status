@@ -24,19 +24,19 @@
     "url": "https://api.other.page/v1/health/blockchain",
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "minter",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 4427,
-    "timeWeek": 1203,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 848,
+    "timeDay": 2990,
+    "timeWeek": 1082,
+    "timeMonth": 848,
+    "timeYear": 848,
     "dailyMinutesDown": {
-      "2025-09-03": 0
+      "2025-09-03": 12
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 155,
-    "timeWeek": 123,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "uptime": "99.90%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 122,
+    "timeDay": 117,
+    "timeWeek": 118,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2025-09-03": 0
+      "2025-09-03": 12
     }
   }
 ]
