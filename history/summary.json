@@ -25,19 +25,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "minter",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 848,
     "timeDay": 2990,
     "timeWeek": 1082,
     "timeMonth": 848,
     "timeYear": 848,
-    "dailyMinutesDown": {
-      "2025-09-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -45,18 +43,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.other.page.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 122,
     "timeDay": 117,
     "timeWeek": 118,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {
-      "2025-09-03": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
