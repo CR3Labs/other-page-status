@@ -1,7 +1,7 @@
 url: https://api.other.page/core/v0/health
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2025-09-15T19:29:10.695Z
+status: down
+code: 503
+responseTime: 361
+lastUpdated: 2025-09-15T19:54:39.904Z
 startTime: 2025-08-26T22:57:40.050Z
 generator: Upptime <https://github.com/upptime/upptime>
